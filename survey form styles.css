@@ -1,0 +1,99 @@
+body {
+    margin: 0 0;
+    padding: 0 0;
+    background-image: url(Odyssey-forms-background.jpg);
+    background-size: cover;
+    color: rgb(185, 167, 167);
+}
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    margin: 15px auto;
+}
+.p1 {
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+form {
+    border: 2px solid rgb(91, 57, 170, 0.4);
+    height: auto;
+    width: 500px;
+    max-width: 600px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 15px;
+    background-color: rgba(6, 6, 31, 0.4);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(14, 26, 77) ;
+}
+div {
+    
+    margin: 5px auto;
+    padding: 10px 10px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.info {
+    width: 100%;
+    height: 30px;
+    display: block;
+    margin: 5px auto;
+    background-color: rgb(8, 17, 66);
+    border: none;
+    border-radius: 5px;
+    color: rgb(175, 168, 156);
+}
+
+.p-form {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+select {
+    width: 100%;
+    height: 30px;
+    margin: 5px auto;
+    background-color: rgb(8, 17, 66);
+    border: none;
+    border-radius: 5px;
+    color: rgb(175, 168, 156);
+}
+.radio-checkbox {
+    display: block;
+    width: 100;
+    margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0%;
+}
+textarea {
+    width: 100%;
+    height: 80px;
+    margin: 5px auto;
+    background-color: rgb(8, 17, 66);
+    border: none;
+    border-radius: 5px;
+    color: rgb(175, 168, 156);
+}
+.submit {
+    width: 90%;
+    height: 40px;
+    margin: 0 auto;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    background-color: rgba(128, 165, 187, 0.5);
+    color: rgb(175, 168, 156);;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 5px rgb(8, 17, 66) ;
+}
+.submit:hover {
+    background-color: rgb(19, 149, 224, 0.7);
+    
+}
+.btn {
+    text-align: center;
+}
